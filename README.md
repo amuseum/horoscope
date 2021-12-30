@@ -16,3 +16,4 @@ A simple Horoscope web app created using HTML, CSS, JavaScript, and aztro API.
 </code>
 
 ## Dev.to Post link :- [Click here!](https://dev.to/arwazkhan189/horoscope-web-app-1nbf)
+
